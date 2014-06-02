@@ -1,0 +1,6 @@
+html { height: 100% }
+body { height: 100%; margin: 0; padding: 0 }
+.mapView { clear: left; }
+.map { width: 400px; height: 320px; float: left; }
+.street { width: 400px; height: 320px; float: left; }
+.route { width: 400px; height: 320px; float: left; }
